@@ -1,2 +1,2 @@
-# Git-Sv-r
+# Git Svör
 Git spurningar og Svör
